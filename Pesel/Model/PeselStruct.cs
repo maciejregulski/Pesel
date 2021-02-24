@@ -1,6 +1,6 @@
 ﻿namespace Pesel.Model
 {
-    class PeselStruct
+    public class PeselStruct
     {
         public int Year { get; set; }
         public int Month { get; set; }
